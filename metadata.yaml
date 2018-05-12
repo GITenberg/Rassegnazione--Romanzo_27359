@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2402
     wikipedia: http://it.wikipedia.org/wiki/Luigi_Capuana
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27359#Rassegnazione--Romanzo
 gutenberg_bookshelf: IT Romanzi
 gutenberg_issued: '2008-11-29'
 gutenberg_type: Text

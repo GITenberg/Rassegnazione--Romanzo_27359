@@ -1,0 +1,29 @@
+_repo: Rassegnazione--Romanzo_27359
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Capuana, Luigi
+    birthdate: 1839
+    deathdate: 1915
+    gutenberg_agent_id: '2402'
+    url: http://www.gutenberg.org/2009/agents/2402
+    wikipedia: http://it.wikipedia.org/wiki/Luigi_Capuana
+description: ''
+gutenberg_bookshelf: IT Romanzi
+gutenberg_issued: '2008-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27359'
+  lccn: 09016929
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: 'Rassegnazione: Romanzo'
+url: http://www.gutenberg.org/ebooks/27359
